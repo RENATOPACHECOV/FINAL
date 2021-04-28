@@ -1,0 +1,70 @@
+#EXTM3U
+
+#EXTINF:-1,A&E
+https://tv.teleclub.xyz/canal/LIVE-AE.m3u8
+
+#EXTINF:-1,ANIMAL PLANET
+https://tv.teleclub.xyz/canal/LIVE-ANIMAL_PLANET.m3u8
+
+#EXTINF:-1,MTV
+https://tv.teleclub.xyz/canal/LIVE-MTV.m3u8
+
+#EXTINF:-1,HISTORY
+https://tv.teleclub.xyz/canal/LIVE-HISTORY.m3u8
+
+#EXTINF:-1,NAT GEO WILD
+https://tv.teleclub.xyz/canal/LIVE-NATGEOWILD.m3u8
+
+#EXTINF:-1,DISCOVERY CHANNEL
+https://tv.teleclub.xyz/canal/LIVE-DISCOVERY.m3u8
+
+#EXTINF:-1,DISCOVERY HOME & HEALTH
+https://tv.teleclub.xyz/canal/LIVE-D_HYH.m3u8
+
+#EXTINF:-1,DISCOVERY THEATER
+https://tv.teleclub.xyz/canal/LIVE-D_THEATER.m3u8
+
+#EXTINF:-1,DISCOVERY WORLD
+https://tv.teleclub.xyz/canal/LIVE-D_WORLD.m3u8
+
+#EXTINF:-1,TLC
+https://tv.teleclub.xyz/canal/LIVE-D_TLC.m3u8
+
+#EXTINF:-1,DW INTERNACIONAL
+http://dwstream32-lh.akamaihd.net/i/dwstream32_live@500520/master.m3u8
+
+#EXTINF:-1,RT 
+https://rt-esp.secure.footprint.net/1102.m3u8
+
+#EXTINF:-1,STAR CLASSICS
+https://tv.teleclub.xyz/canal/LIVE-STAR_CLASSICS.m3u8
+
+#EXTINF:-1,PARAMOUNT NETWORK
+http://ipeteve.com/php/SR_REGIO_32/regio22.php?c=paramount&f=.m3u8
+
+#EXTINF:-1,SPACE
+http://ipeteve.com/php/SR_REGIO_32/regio22.php?c=space&f=.m3u8
+
+#EXTINF:-1,STAR CHANNEL
+http://ipeteve.com/php/SR_REGIO_32/regio22.php?c=starch&f=.m3u8
+
+#EXTINF:-1,CNN ESPAÑOL
+http://ipeteve.com/php/SR_REGIO_32/regio22.php?c=cnnes&f=.m3u8
+
+#EXTINF:-1,HBO 2
+http://ipeteve.com/php/SR_REGIO_32/regio22.php?c=hbo2&f=.m3u8
+
+#EXTINF:-1,HBO +
+http://ipeteve.com/php/SR_REGIO_32/regio22.php?c=hboplus&f=.m3u8
+
+#EXTINF:-1,HBO FAMILY
+http://ipeteve.com/php/SR_REGIO_32/regio22.php?c=hbofamily&f=.m3u8
+
+#EXTINF:-1,HBO POP
+http://ipeteve.com/php/SR_REGIO_32/regio22.php?c=hbopop&f=.m3u8
+
+#extinf:-1,HBO SIGNATURE
+https://tv.teleclub.xyz/canal/LIVE-HBO_SIGNATURE.m3u8
+
+#EXTINF:-1,NAT GEO
+http://ipeteve.com/php/SR_REGIO_32/regio22.php?c=natgeo&f=.m3u8
