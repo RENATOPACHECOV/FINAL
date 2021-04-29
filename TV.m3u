@@ -68,3 +68,6 @@ https://tv.teleclub.xyz/canal/LIVE-HBO_SIGNATURE.m3u8
 
 #EXTINF:-1,NAT GEO
 http://ipeteve.com/php/SR_REGIO_32/regio22.php?c=natgeo&f=.m3u8
+
+#EXTINF:-1,WARNER
+https://dntwkqxbtnst4g9q.ezcdn462.net:8443/hls/j5uwhfb7w5c.m3u8?s=POGlzvcvuLKeEGxfvy4GeA&e=1619753075
